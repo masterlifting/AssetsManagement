@@ -1,0 +1,4 @@
+[submodule "submodules/AM.Portfolio"]
+	path = submodules/AM.Portfolio
+	url = https://github.com/masterlifting/AM.Portfolio
+	branch = feature-issue_1-bcs_reports
