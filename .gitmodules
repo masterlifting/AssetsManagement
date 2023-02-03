@@ -2,3 +2,11 @@
 	path = submodules/AM.Portfolio
 	url = https://github.com/masterlifting/AM.Portfolio
 	branch = feature-issue_1-bcs_reports
+[submodule "submodules/AM.Markets"]
+	path = submodules/AM.Markets
+	url = https://github.com/masterlifting/AM.Markets
+	branch = dev
+[submodule "submodules/AM.Recommedations"]
+	path = submodules/AM.Recommedations
+	url = https://github.com/masterlifting/AM.Recommendations
+	branch = dev
